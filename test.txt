@@ -1,0 +1,2 @@
+This is just an example to see what I can do or can't do with Git, please bear with me. 
+This is practice for me to get used to working out of VSS and committing via git.
